@@ -9,8 +9,7 @@ The notebook tackles a synthetic object localization task. Standard MNIST digits
 1.  **Classify** the digit (0-9).
 2.  **Localize** the digit by predicting the coordinates of its bounding box within the 75x75 canvas.
 
-![Localization Example](./localization_example.png)
-*(Replace './localization_example.png' with the actual path to your example image)*
+
 
 ## Dataset
 
